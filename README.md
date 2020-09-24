@@ -26,7 +26,7 @@
 		- Users will be able to sign up for accounts 
 		- Users will be able to login in 
 		- Users will be able to create a dating profile
-		- Users will be able to view their own profile and other profiles, but not delete or delete other user’s data
+		- Users will be able to view their own profile and other profiles, but not edit or delete other user’s data
 		- Admins will have total control over the site 
 		- Users and Dating Profiles will be saved to the database 
 		
